@@ -1,2 +1,2 @@
 # TS-Modpack
-![Static Badge](https://img.shields.io/badge/Modrinth-What?style=plastic&logo=modrinth&labelColor=gray&color=%2300AF5C)
+<img width="180" alt="Modrinth" src="https://img.shields.io/badge/Found_it_on-Modrinth-00AF5C?logo=modrinth"></img>
