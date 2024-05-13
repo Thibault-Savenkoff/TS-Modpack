@@ -1,6 +1,6 @@
 # TS-Modpack
-[![Modrinth](https://img.shields.io/badge/Found_It_On-Modrinth-00AF5C?logo=modrinth)](https://modrinth.com/modpack/ts-modpack)
-[![Notion](https://img.shields.io/badge/Link_To_The_Space-Notion-%23000000?logo=notion)](https://rowan-almond-24e.notion.site/TS-s-Modpack-4db505f96b7044c5a0dc8b9c36969b90?pvs=4)
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/ts-modpack)
+[![Notion](https://raw.githubusercontent.com/Thibault-Savenkoff/TS-Modpack/main/Images/Notion.svg)](https://rowan-almond-24e.notion.site/TS-s-Modpack-4db505f96b7044c5a0dc8b9c36969b90?pvs=4)
 
 **TS’s Modpack** is a *Fabric* 1.19.2 modpack oriented <u>**Technology**</u> and <u>**Quests**</u>.
 
